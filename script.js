@@ -53,4 +53,4 @@ t1
     })
 }
 revealToSpan();
-// loaderAnimation();
+loaderAnimation();
